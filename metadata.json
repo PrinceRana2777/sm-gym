@@ -1,0 +1,5 @@
+{
+  "name": "SM FITNESS GYM",
+  "description": "Premium Gym & Fitness Center in Naigaon (East), Maharashtra. Transform your body with expert trainers and modern equipment.",
+  "requestFramePermissions": ["geolocation"]
+}
